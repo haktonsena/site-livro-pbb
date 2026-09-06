@@ -50,7 +50,7 @@ const chapters: Chapter[] = [
     principle:
       "Converse com seu filho sobre como o pecado é um fardo pesado, mas Cristo chama os cansados para encontrarem descanso nele.",
     verse: "Mateus 11:28",
-    videoId: "jOJ4XZfZbSY",
+    videoId: "x1dzSkSX294",
   },
   {
     number: 2,
@@ -64,7 +64,7 @@ const chapters: Chapter[] = [
     principle:
       "Mostre que o desânimo pode nos fazer afundar, mas Deus sustenta seus filhos e os ajuda a continuar.",
     verse: "Salmo 40:2",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "eWO_gPnFcbY",
   },
   {
     number: 3,
@@ -78,7 +78,7 @@ const chapters: Chapter[] = [
     principle:
       "Converse sobre a diferença entre tentar ser aceito por boas obras e confiar na graça de Cristo.",
     verse: "Efésios 2:8-9",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "sWs9xlo2syM",
   },
   {
     number: 4,
@@ -92,7 +92,7 @@ const chapters: Chapter[] = [
     principle:
       "Ensine que Jesus é o caminho de entrada para a salvação e que devemos responder ao seu chamado.",
     verse: "Mateus 7:13-14",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "qs5JLCb7z4Q",
   },
   {
     number: 5,
@@ -106,7 +106,7 @@ const chapters: Chapter[] = [
     principle:
       "Fale sobre como Deus nos ensina por sua Palavra e nos dá sabedoria para entender o caminho.",
     verse: "Tiago 1:5",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "RhZocTMSAeE",
   },
   {
     number: 6,
@@ -120,7 +120,7 @@ const chapters: Chapter[] = [
     principle:
       "Converse sobre o perdão dos pecados e a alegria de ser liberto por Jesus.",
     verse: "João 8:36",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "bz0v8L9FEnU",
   },
   {
     number: 7,
@@ -134,7 +134,7 @@ const chapters: Chapter[] = [
     principle:
       "Mostre a importância da comunhão, do cuidado espiritual e da preparação para perseverar.",
     verse: "Hebreus 10:24-25",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "rnHR7huBO0w",
   },
   {
     number: 8,
@@ -148,7 +148,7 @@ const chapters: Chapter[] = [
     principle:
       "Ensine que a humildade nos lembra que precisamos da força de Deus em todas as batalhas.",
     verse: "Tiago 4:10",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "bg5iqDbHBSk",
   },
   {
     number: 9,
@@ -162,7 +162,7 @@ const chapters: Chapter[] = [
     principle:
       "Converse sobre amar mais a Deus do que as coisas passageiras que o mundo oferece.",
     verse: "1 João 2:15",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "D6qe4PTn8TU",
   },
   {
     number: 10,
@@ -176,7 +176,7 @@ const chapters: Chapter[] = [
     principle:
       "Mostre que dúvidas e medo podem aprisionar, mas as promessas de Deus fortalecem a fé.",
     verse: "Romanos 15:13",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "WcE9LjoebnA",
   },
   {
     number: 11,
@@ -204,7 +204,7 @@ const chapters: Chapter[] = [
     principle:
       "Ensine sobre vigilância espiritual e perseverança mesmo quando a caminhada parece tranquila.",
     verse: "1 Pedro 5:8",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "9qRpQjdbrMo",
   },
   {
     number: 13,
@@ -218,7 +218,7 @@ const chapters: Chapter[] = [
     principle:
       "Converse sobre a esperança cristã diante da morte e a promessa de vida eterna em Cristo.",
     verse: "João 11:25",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "gt429tAqs44",
   },
   {
     number: 14,
@@ -232,7 +232,7 @@ const chapters: Chapter[] = [
     principle:
       "Mostre que a esperança do cristão é estar para sempre com Deus, onde não haverá mais tristeza.",
     verse: "Apocalipse 21:4",
-    videoId: "COLOQUE_AQUI_O_ID_DO_VIDEO",
+    videoId: "XpKFCwZUAAQ",
   },
 ];
 
